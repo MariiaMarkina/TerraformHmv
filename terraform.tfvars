@@ -1,0 +1,7 @@
+vpc_id = "vpc-b94a53c3"
+region = "us-east-1"
+az = "us-east-1a"
+az2 = "us-east-1b"
+ami = "ami-0758470213bdd23b1"
+instance_type = "t2.micro"
+keys = "EC2_keys"
